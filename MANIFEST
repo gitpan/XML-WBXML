@@ -2,7 +2,6 @@ Changes
 lib/XML/WBXML.pm
 Makefile.PL
 MANIFEST
-META.yml			Module meta-data (added by MakeMaker)
 ppport.h
 README
 t/00-load.t
@@ -201,3 +200,4 @@ t/samples/wv-104.xml
 t/samples/wv-105.xml
 typemap
 WBXML.xs
+META.yml                                 Module meta-data (added by MakeMaker)
